@@ -1,0 +1,1 @@
+我想要添加一个IgnisAttackEnhancer.java。根据Ignis_entity.java，一阶段所有攻击要附带预期伤害1.25%的generic_kill伤害。二阶段要附带预期伤害2.5%的generic_kill伤害和1.25%的setHealth改血伤害。三阶段要附带预期伤害5%generic_kill伤害和2.5%setHealth伤害。所有setHealth的改血伤害只要攻击生物就能造成伤害，即使普通伤害和generic_kill伤害被免疫。注意我取消了所有生物的Blazebrand效果。
