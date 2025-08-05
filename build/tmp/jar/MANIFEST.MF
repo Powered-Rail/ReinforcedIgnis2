@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: reinforcedignis
+Specification-Vendor: Powered_Rail
+Specification-Version: 1
+Implementation-Title: forge4
+Implementation-Version: 1.0.0
+Implementation-Vendor: Powered_Rail
+Implementation-Timestamp: 2025-08-04T19:04:26+0800
+MixinConfigs: reinforcedignis.mixins.json
+

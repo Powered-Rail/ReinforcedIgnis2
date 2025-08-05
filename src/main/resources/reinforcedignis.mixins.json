@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.reinforcedignis.reinforcedignis.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "reinforcedignis.mixins.refmap.json",
+  "mixins": [
+    "EntityMixin",
+    "IgnisEntityMixin",
+    "MixinIgnisEntity"
+  ],
+  "minVersion": "0.8.5"
+}

@@ -1,0 +1,1 @@
+effect clear @e cataclysm:blazing_brand
